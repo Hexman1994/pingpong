@@ -2,6 +2,11 @@
 
 
 
+Negoita Radu Florin
+333AB
+
+
+
 ;program ce simuleaza un joc ping-pong
 ;controlul paletei se face cu ajutorul tastelor A si Z
 ;A-->miscare in sus
